@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Iqbal Ahmed
 #### Web Developer 
-![Web Developer ](https://scontent.fdac10-1.fna.fbcdn.net/v/t1.6435-9/p180x540/54727820_2094159270874268_3281909451472240640_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeHmtYkUnQjxYW197j0VTDgNGGBirFYfBL4YYGKsVh8EvjJtHytmk3MKdxk7ATlcIeT4oephvq00PpCMpYm2RN5x&_nc_ohc=CXLepTegE7gAX-iynfO&_nc_ht=scontent.fdac10-1.fna&oh=00_AT9NqeARxkQP0ntJjSrq5T5PLOiWM4-NP5E0S1_z8pbBOg&oe=62030C09)
-
  I am a front-end developer and I just completed my BSc in computer science and engineering at City University BD. I was a front-end web developer(intern) at Source9.  I'm the co-convener of the BASIS student forum at City University Chapter. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career. I like to accept new challenges and work on them as a proactive person.
 
 Skills: Bootstrap / REACT / JS / HTML / CSS / Firebase / Node / Express / MongoDB / Heroku
@@ -20,11 +18,10 @@ Skills: Bootstrap / REACT / JS / HTML / CSS / Firebase / Node / Express / MongoD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal9865)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbal9865&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbal9865&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iqbal9865)  
 
 ![GitHub metrics](https://metrics.lecoq.io/iqbal9865)  
 
 ![Profile views](https://gpvc.arturio.dev/iqbal9865)  
-
