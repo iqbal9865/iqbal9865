@@ -2,7 +2,7 @@
 #### Web Developer 
  I am a front-end developer and I just completed my BSc in computer science and engineering at City University BD. I was a front-end web developer(intern) at Source9.  I'm the co-convener of the BASIS student forum at City University Chapter. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career. I like to accept new challenges and work on them as a proactive person.
 
-Skills: Bootstrap / REACT / JS / HTML / CSS / Firebase / Node / Express / MongoDB / Heroku
+Skills: Bootstrap / REACT / JavaScript / HTML / CSS / Firebase / Node / Express / MongoDB / Heroku
 
 - 🔭 I’m currently working on a team for learning, working collaboratively and completing projects collectively. 
 - 🌱 I’m currently learning Everything is related to Web Development. 
