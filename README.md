@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Iqbal Ahmed
-#### Web Developer 
- Since February 2022 I am working as a Jr Web Developer at Syftet Limited. I completed my BSc in computer science and engineering at City University BD. I was a front-end web developer(intern) at Source9.  I'm the co-convener of the BASIS student forum at City University Chapter. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career. I like to accept new challenges and work on them as a proactive person.
+#### Jr. Software Engineer 
+ Since February 2022 I am working as a Jr. Software Engineer at Syftet Limited. I completed my BSc in computer science and engineering at City University BD. I was a front-end web developer(intern) at Source9.  I'm the co-convener of the BASIS student forum at City University Chapter. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career. I like to accept new challenges and work on them as a proactive person.
 
-Skills: Bootstrap / REACT / JavaScript / HTML / CSS / Firebase / Node / Express / MongoDB / SASS
+Skills: Bootstrap / REACT / JavaScript / HTML / CSS / Firebase / Angular / Express / MongoDB / SASS
 
 - 🔭 I’m currently working at Syftet Limited which is a software development company. 
 - 🌱 I’m currently learning Everything is related to Web Development. 
