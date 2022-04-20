@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Iqbal Ahmed
 #### Jr. Software Engineer 
- Since February 2022 I am working as a Jr. Software Engineer at Syftet Limited. I completed my BSc in computer science and engineering from City University, Dhaka, BD. I was a front-end web developer(intern) at Source9. I'm the co-convener of the BASIS student forum at City University Chapter. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career. I like to accept new challenges and work on them as a proactive person.
+ Since February 2022 I am working as a Jr. Software Engineer at Syftet Limited. I completed my BSc in computer science and engineering from City University, BD. I was a front-end web developer(intern) at Source9. I'm the co-convener of the BASIS student forum at City University Chapter. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career. I like to accept new challenges and work on them as a proactive person.
 
 Skills: Bootstrap / React / JavaScript / HTML / CSS / Firebase / Angular / Express / MongoDB / SASS
 
