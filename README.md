@@ -16,10 +16,10 @@ My Service :
 ✔ Build Application Frontend End Using React or Angular, Redux, and APIs.
 ✔ Implementing responsive design for mobile and all major browsers.
 
-Skills: Bootstrap / React / JavaScript / HTML / CSS / Firebase / Angular / Node.Js / MySql / SASS
+Skills: Tailwind CSS / React / JavaScript / HTML / CSS / Firebase / Angular / Node.Js / MySql / SASS
 
 - 🔭 I’m currently working at Syftet Limited which is a software development company. 
-- 🌱 I’m currently learning Everything is related to Web Development. 
+- 🌱 I’m currently learning Everything related to Web Development. 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
