@@ -5,9 +5,9 @@ I am a front-end developer passionate about creating practical and fun web appli
 My Skill :
 
 ✔ Proficient understanding of web markup, including HTML5, CSS3, SASS, and JavaScript.
-✔ Good understanding of TypeScript, RXJS, Angular, React, and Redux.
+✔ Good understanding of TypeScript, React-Native, Angular, React, and Redux.
 ✔ Familiarity with Backend technology such as Node.js, Express.js, and MySQL.
-✔ Experience with common front-end development tools such as Git, Figma, Webpack, and Yarn.
+✔ Experience with common front-end development tools like Git, Figma, Webpack, and Yarn.
 
 My Service :
 
