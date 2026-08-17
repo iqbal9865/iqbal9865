@@ -22,10 +22,9 @@ I'm a full-stack engineer who enjoys building web and mobile apps that solve rea
 ---
 
 ### 🚀 A Few Projects I've Worked On
-
+- **Daily Islam** — A React Native app live on the App Store and Play Store. Developed and maintained significant parts of the application, working on complex frontend functionality, reusable UI components, state management, Arabic RTL support, location-based services, prayer-time functionality, and other core application features.
 - **CV Bias Analyser** — A Streamlit web app I built for my MSc dissertation. It measures gender and ethnicity bias in CV screening models using logistic regression, random forest, and BERT classifiers.
 - **CareerFlow** — A full-stack job application tracker. Built with Node.js, TypeScript, Prisma, and PostgreSQL, with a Next.js front end on the way.
-- **Daily Islam** — A React Native app live on the App Store and Play Store. I built most of the front end, including Arabic right-to-left support and prayer times based on location.
 
 ---
 
